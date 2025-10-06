@@ -1,1 +1,1 @@
-# ChessGPT
+# Chess With AI
